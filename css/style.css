@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+body{
+    background-color: black;
+    margin: 0%;
+    
+}
+.font{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+.media-picture{
+    background-image: url(../img/images.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}    
+.review-score{
+    background-color: yellow;
+    color: cornflowerblue;
+    font-size: 20px;
+}
+
+.sub-titulo{
+    color: blue;
+
+}
+
+.link{
+    color: yellow;
+}
